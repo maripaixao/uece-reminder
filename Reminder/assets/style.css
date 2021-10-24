@@ -1,0 +1,58 @@
+.margin-top-50{
+    margin-top: 50px;
+}
+
+.margin-top-20{
+    margin-top: 20px;
+}
+
+.container{
+    border-radius: 50px;
+    background-image: url(background-08.jpg);
+    background-size: 30%;
+    background-position: center;
+    
+}
+
+.form-label{
+    font-size: 20px;
+    font-family: Candara, Geneva, Tahoma, sans-serif;
+    border-radius: 30px;
+}
+
+
+.form-control{
+    font-size: 20px;
+    font-family: Candara, Geneva, Tahoma, sans-serif;
+    background-color: #f4f4f4;
+    padding: 12px 15px;
+    margin: 8px 0px;
+    border-radius: 20px;
+}
+
+.form-select{
+    font-size: 18px;
+    font-family: Candara, Geneva, Tahoma, sans-serif;
+    color: #2A2438;
+    background-color: #f4f4f4;
+    padding: 12px 15px;
+    margin: 8px 0px;
+    border-radius: 20px;
+}
+
+.btn{
+    font-family: Candara, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 16px;
+}
+
+body{
+    background-color: #f4f4f4;
+}
+
+.info{
+    font-size: 18px;
+    font-family: Candara, Geneva, Tahoma, sans-serif;
+}
+
+
